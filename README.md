@@ -73,9 +73,6 @@ The Power BI dashboard includes the following visualizations:
 
 ![HR Data Analysis.png](https://github.com/meabhaykr/HR-Data-Analysis/blob/main/HR%20Analytics%20Dashboard.png)
 
-
-[Plotting graph.png](https://github.com/meabhaykr/Bike-Sharing-Demand-Prediction/blob/main/Image/Plotting%20graph.png)
-
 Feel free to explore the dashboard, use interactive filters, and make data-driven decisions for your HR strategies.
 
 **Note:** Ensure to have Power BI installed to experience the full functionality of the dashboard.

@@ -9,8 +9,8 @@ The HR Analytics Dashboard leverages the robust capabilities of Power BI, incorp
 ### Tools/Technologies Used
 
 1. Advanced Excel
-2. Tableau
-3. Statistics
+2. Power BI
+3. Tableau
 
 ## Process Overview
 

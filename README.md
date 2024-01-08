@@ -69,7 +69,7 @@ The Power BI dashboard includes the following visualizations:
 6. Education Field-wise Attrition (Vertical Bar Graph).
 7. Attrition Rate by Gender for Different Age Groups (Donut Chart).
 
-## HR Analytics Dashboard: Image
+## HR Analytics Dashboard:
 
 ![HR Analytics Dashboard]([link_to_image.png](https://github.com/meabhaykr/HR-Data-Analysis/blob/main/HR%20Analytics%20Dashboard.png))
 

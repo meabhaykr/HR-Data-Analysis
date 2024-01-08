@@ -71,7 +71,7 @@ The Power BI dashboard includes the following visualizations:
 
 ## HR Analytics Dashboard: Image
 
-![HR Analytics Dashboard](link_to_image.png)
+![HR Analytics Dashboard]([link_to_image.png](https://github.com/meabhaykr/HR-Data-Analysis/blob/main/HR%20Analytics%20Dashboard.png))
 
 Feel free to explore the dashboard, use interactive filters, and make data-driven decisions for your HR strategies.
 
